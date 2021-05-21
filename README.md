@@ -76,4 +76,4 @@ O objetivo principal deste desafio é avaliar as capacidades do candidato em:
 ### Observações
  
 * Ao terminar o desafio, encaminhe o link do repositório para o email `rh@ubistart.com`
-* Caso você não conclua o desafio no tempo dado, encaminhe a sua solução para nós com uma seção de `dificuldades` no projeto. O importante é vermos o que você conseguiu construir :v: :grin: 
+* Caso você não conclua o desafio no tempo combinado, encaminhe a sua solução para nós com uma seção de `dificuldades` no projeto. O importante é vermos o que você conseguiu construir :v: :grin: 
