@@ -4,7 +4,7 @@ Bem-vindo ao desafio técnico para backend em NodeJS da Ubistart!! :raised_hands
 
 ![](./docs/celebration.gif)
 
-## :man_technologist: &nbsp;O desafio
+## :man_technologist: &nbsp;O desafio&nbsp; :woman_technologist:
 
 * Como um usuário eu quero criar uma conta então poderei gerenciar meus itens de TODO
   - Dado que estou criando minha conta, quero informar e-mail e senha
@@ -50,7 +50,7 @@ Bem-vindo ao desafio técnico para backend em NodeJS da Ubistart!! :raised_hands
 ![](./docs/requisitos.gif)
 ### Obrigatórios
 
-* Disponibilidar documentação o suficiente para a execução do projeto no README
+* Disponibilizar documentação o suficiente para a execução do projeto no README
 * Utilizar banco de dados MySQL
 * Utilizar framework NestJS
 * Tratar erros
@@ -60,7 +60,7 @@ Bem-vindo ao desafio técnico para backend em NodeJS da Ubistart!! :raised_hands
 
 * Escrever testes de unidade e integração
 * Documentar decisões tomadas durante o desafio técnico
-* Disponibilziar diagrama da API
+* Disponibilizar diagrama da API
 * Utilizar docker
 ## :eyes: &nbsp;Avaliação 
 
