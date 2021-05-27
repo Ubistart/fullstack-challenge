@@ -6,6 +6,8 @@ Bem-vindo ao desafio técnico para backend em NodeJS da Ubistart!! :raised_hands
 
 ## :man_technologist: &nbsp;O desafio&nbsp; :woman_technologist:
 
+Para a resolução deste desafio, esperamos que você desenvolva uma API Rest que contemple as estórias de usuário abaixo. Nenhuma interface de usuário deve ser desenvolvida.
+
 * Como um usuário eu quero criar uma conta então poderei gerenciar meus itens de TODO
   - Dado que estou criando minha conta, quero informar e-mail e senha
 
