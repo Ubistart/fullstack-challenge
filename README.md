@@ -54,7 +54,6 @@ Para a resolução deste desafio, esperamos que você desenvolva uma API Rest qu
 
 * Disponibilizar documentação o suficiente para a execução do projeto no README
 * Utilizar banco de dados MySQL
-* Utilizar framework NestJS
 * Tratar erros
 * Autenticação e autorização via JWT
 
@@ -64,6 +63,11 @@ Para a resolução deste desafio, esperamos que você desenvolva uma API Rest qu
 * Documentar decisões tomadas durante o desafio técnico
 * Disponibilizar diagrama da API
 * Utilizar docker
+
+### Observação
+
+Você pode usar qualquer framework de backend para a resolução do problema.
+
 ## :eyes: &nbsp;Avaliação 
 
 ![](./docs/avaliacao.gif)
