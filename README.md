@@ -52,6 +52,7 @@ Para a resolução deste desafio, esperamos que você desenvolva uma API Rest e 
 ![](./docs/requisitos.gif)
 ### Obrigatórios
 
+* Backend deve ser desenvolvido em Node.JS
 * Desenvolver interface de usuário utilizando React.JS
 * Disponibilizar documentação o suficiente para a execução do projeto no README
 * Tratar erros
@@ -67,6 +68,8 @@ Para a resolução deste desafio, esperamos que você desenvolva uma API Rest e 
 ### Observação
 
 Você pode usar qualquer framework de backend e, também, qualquer banco de dados para a resolução do problema.
+
+(Exemplo de frameworks: Express, AdonisJS, NestJS)
 
 ## :eyes: &nbsp;Avaliação 
 
