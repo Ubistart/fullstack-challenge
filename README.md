@@ -1,12 +1,12 @@
-# Desafio para backend em NodeJS
+# Desafio para fullstack
 
-Bem-vindo ao desafio técnico para backend em NodeJS da Ubistart!! :raised_hands:
+Bem-vindo ao desafio técnico para fullstack  da Ubistart!! :raised_hands:
 
 ![](./docs/celebration.gif)
 
 ## :man_technologist: &nbsp;O desafio&nbsp; :woman_technologist:
 
-Para a resolução deste desafio, esperamos que você desenvolva uma API Rest que contemple as estórias de usuário abaixo. Nenhuma interface de usuário deve ser desenvolvida.
+Para a resolução deste desafio, esperamos que você desenvolva uma API Rest e interface de usuário que contemple as estórias de usuário abaixo.
 
 * Como um usuário eu quero criar uma conta então poderei gerenciar meus itens de TODO
   - Dado que estou criando minha conta, quero informar e-mail e senha
@@ -52,8 +52,8 @@ Para a resolução deste desafio, esperamos que você desenvolva uma API Rest qu
 ![](./docs/requisitos.gif)
 ### Obrigatórios
 
+* Desenvolver interface de usuário utilizando React.JS
 * Disponibilizar documentação o suficiente para a execução do projeto no README
-* Utilizar banco de dados MySQL
 * Tratar erros
 * Autenticação e autorização via JWT
 
@@ -66,7 +66,7 @@ Para a resolução deste desafio, esperamos que você desenvolva uma API Rest qu
 
 ### Observação
 
-Você pode usar qualquer framework de backend para a resolução do problema.
+Você pode usar qualquer framework de backend e, também, qualquer banco de dados para a resolução do problema.
 
 ## :eyes: &nbsp;Avaliação 
 
