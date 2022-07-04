@@ -52,8 +52,8 @@ Para a resolução deste desafio, esperamos que você desenvolva uma API Rest e 
 ![](./docs/requisitos.gif)
 ### Obrigatórios
 
-* Backend deve ser desenvolvido em Node.JS
-* Desenvolver interface de usuário utilizando React.JS
+* Backend deve ser desenvolvido na tecnologia informada pelo time de pessoas da Ubistart
+* Interface deve ser desenvolvida na tecnologia informada pelo time de pessoas da Ubistart
 * Disponibilizar documentação o suficiente para a execução do projeto no README
 * Tratar erros
 * Autenticação e autorização via JWT
